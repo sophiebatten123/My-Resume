@@ -4,7 +4,7 @@
 /*------------------------------------------------------Colours */
 
 .bg-color-name-title {
-    background-color: #6a626296;
+    background-color: #7a5f8596;
 }
 
 .ui-menu-color-home {
@@ -21,6 +21,29 @@
 
 .ui-menu-color-download {
     background-color: #60385f;
+}
+
+/*------------------------------------------------------Special paddings/margins/texts */
+
+h1,
+h2,
+h3,
+h4 {
+    margin: 0;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.general-sub {
+    font-family: "Exo", sans-serif;
+    font-weight: 300;
+    color: #fafafa;
+}
+
+.inline-block {
+    display: inline-block;
 }
 
 /*------------------------------------------------------Heading */
@@ -113,4 +136,13 @@ header {
 .hvr-sweep-to-bottom::before {
     background-color: rgba(0,0,0,0.2);
     height: 120px;
+}
+
+/*------------------------------------------------------Footer */
+
+footer {
+    background-color: #7a5f8596;
+    color: #fafafa;
+    min-height: 120px;
+    margin: 0;
 }

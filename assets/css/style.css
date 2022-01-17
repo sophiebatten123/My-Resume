@@ -210,3 +210,14 @@ footer {
 #footer-details {
     padding: 20px; 
 }
+
+/*------------------------------------------------------Three Reasons*/
+
+.three-reasons-icon {
+    font-size: 26px;
+    color: #aa84ab;
+}
+
+.three-reasons-heading {
+    margin-bottom: 15px;
+}

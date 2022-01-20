@@ -59,7 +59,7 @@
 }
 
 .bg-color-conferences {
-    background-color: #5eab5e;
+    background-color:  #7a5f8559;
 }
 
 .ui-menu-color-github {
@@ -71,6 +71,10 @@
 }
 
 /*------------------------------------------------------Special paddings/margins/texts */
+
+p {
+    margin-bottom: 2rem;
+}
 
 h1,
 h2,

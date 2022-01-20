@@ -54,6 +54,18 @@
     background-color: #743b74;
 }
 
+.ui-menu-color-interests {
+    background-color: #3b5c0c;
+}
+
+.bg-color-conferences {
+    background-color: #5eab5e;
+}
+
+.ui-menu-color-github {
+    background-color: blue;
+}
+
 .ui-menu-color-download {
     background-color: #60385f;
 }
@@ -396,4 +408,8 @@ button[type="submit"] {
         margin: 0 auto;
         max-width: 50%;
     }
+}
+
+#map {
+    min-height: 360px;
 }
